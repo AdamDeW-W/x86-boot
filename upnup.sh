@@ -1,7 +1,5 @@
-# upgrade and update
+# upgrade and update 
 
-sudo 
+sudo apt-get update -y
 
-apt-get update -y
-
-apt-get upgrade -y
+sudo apt-get upgrade -y
